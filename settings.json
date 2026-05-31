@@ -1,0 +1,10 @@
+{
+  "message": "You Look Fantastic",
+  "label": "Compliment",
+  "theme": "sunset",
+  "font": "sans",
+  "size": "12vw",
+  "uppercase": true,
+  "outline": false,
+  "soft": false
+}
